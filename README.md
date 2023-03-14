@@ -20,7 +20,7 @@ Click on "Raspberry PI OS (other)" and flash `Raspberry PI OS Lite` onto your SD
 
 <br>
 
-## Connect to PI
+## Connecting to PI
 Check your router to get the RPI's IP-Address. Then log into your PI using:
 ```bash
 ssh <uname>@<IP-Address>
@@ -32,7 +32,7 @@ sudo apt update && sudo apt upgrade -y
 ```
 <br>
 
-## Tweaking safety hardware and software of your PI
+## Tweaking hardware and software of your PI for safety
 For safety reasons I recommend to consider the following steps. If you are more the "risky" type of person continue by [Installing OpenMediaVault](#install-openmediavault)
 
 1. Wire up a power switch to your system
