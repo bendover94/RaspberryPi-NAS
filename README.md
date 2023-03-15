@@ -1,7 +1,5 @@
 # RaspberryPi - NAS
 
-[![Raspberry Pi - NAS](https://res.cloudinary.com/marcomontalbano/image/upload/v1678908248/video_to_markdown/images/youtube--Wfi1DpxG3Zc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Wfi1DpxG3Zc "Raspberry Pi - NAS")
-
 ![NasPic](/PICs/NAS_1.jpg)
 
 Create your own Network Attached Storage (NAS) setup using a Raspberry Pi and OpenMediaVault.
@@ -11,6 +9,13 @@ Create your own Network Attached Storage (NAS) setup using a Raspberry Pi and Op
 <br>
 
 Here is a [List of the components](#components) I used.
+
+<br>
+
+Also check out the video of this project:
+
+[![Raspberry Pi - NAS](https://res.cloudinary.com/marcomontalbano/image/upload/v1678908248/video_to_markdown/images/youtube--Wfi1DpxG3Zc-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Wfi1DpxG3Zc "Raspberry Pi - NAS")
+
 
 <br>
 
