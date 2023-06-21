@@ -1,0 +1,22 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+!*Makefile
+!*README.md
+
+# Ignore files with specific extension
+.vscode/
+*-key*
+*.o
+*.out
+*:Zone.Identifier
+*.pdf
+*.json
+*.csv
+*.mp4
+*.gz
